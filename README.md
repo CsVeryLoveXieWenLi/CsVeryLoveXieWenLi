@@ -10,7 +10,7 @@
   
   <p align='center'>
     一个有点小技术的GalGame玩家，主要工作是逆向 <br/><br/>
-    喜欢二次元，目前正在学习Vue、C++
+    喜欢二次元，目前正在学习GoLang、C++
   </p>
   
 </p>
